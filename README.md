@@ -116,5 +116,3 @@ For any questions or suggestions:
 
 ```
 
-If you paste this into your `README.md` and push it, it will look **professional, colorful, and well-structured** on GitHub.  
-
